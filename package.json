@@ -1,0 +1,17 @@
+{
+  "name": "pusher-chat-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Pusher chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Vedant Jha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "pusher": "^1.5.1"
+  }
+}
